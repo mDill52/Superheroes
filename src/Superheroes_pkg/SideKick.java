@@ -23,8 +23,8 @@ public class SideKick extends Superhero {
     @Override
     public String getOriginCity() {
         return this.originCity;
-
     }
+
     public void catchphrase()
     {
         System.out.println("Stand Together!!");

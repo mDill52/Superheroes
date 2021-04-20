@@ -25,6 +25,7 @@ public class AntiHero extends Superhero {
         return this.originCity;
 
     }
+
     public void catchphrase()
     {
         System.out.println("We are Lethal Protectors of the innocent!! Maximum Effort!!");

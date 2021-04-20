@@ -25,6 +25,7 @@ public class KidHero extends Superhero {
         return this.originCity;
 
     }
+
     public void catchphrase()
     {
         System.out.println("Stand Tall and Fight for the Future!!");
