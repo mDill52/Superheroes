@@ -25,6 +25,7 @@ public class ProHero extends Superhero {
             return this.originCity;
 
         }
+        
         public void catchphrase()
         {
             System.out.println("Plus Ultra!!");
